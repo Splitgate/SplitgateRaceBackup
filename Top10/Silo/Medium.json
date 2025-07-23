@@ -1,0 +1,92 @@
+[
+  {
+    "compositeUserId": {
+      "userId": "a87b56f018f2453286ccd9a070fb5f3f",
+      "platform": "XBOX",
+      "platformId": "2535469906837470"
+    },
+    "value": 18718.0,
+    "displayName": "chikken0"
+  },
+  {
+    "compositeUserId": {
+      "userId": "c72257c3a6f342fa9a5da8962ae80507",
+      "platform": "STEAM",
+      "platformId": "76561199755055037"
+    },
+    "value": 18745.0,
+    "displayName": "chikken0"
+  },
+  {
+    "compositeUserId": {
+      "userId": "4b855a003bee4c2480a5ec38f0b044df",
+      "platform": "STEAM",
+      "platformId": "76561198875487244"
+    },
+    "value": 18872.0,
+    "displayName": "headjakk"
+  },
+  {
+    "compositeUserId": {
+      "userId": "6f8a00c365494faab7893d0610a4f7c7",
+      "platform": "STEAM",
+      "platformId": "76561199081543107"
+    },
+    "value": 18887.0,
+    "displayName": "Dweeb"
+  },
+  {
+    "compositeUserId": {
+      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
+      "platform": "STEAM",
+      "platformId": "76561199472448600"
+    },
+    "value": 18918.0,
+    "displayName": "pc"
+  },
+  {
+    "compositeUserId": {
+      "userId": "62f4a0d0e5ac42e7a8fafb726ef733b0",
+      "platform": "STEAM",
+      "platformId": "76561198325618292"
+    },
+    "value": 18932.0,
+    "displayName": "Johny2toes"
+  },
+  {
+    "compositeUserId": {
+      "userId": "ba0233df730f4d8ebb6d9c98775422d5",
+      "platform": "STEAM",
+      "platformId": "76561198178160007"
+    },
+    "value": 18991.0,
+    "displayName": "blueski"
+  },
+  {
+    "compositeUserId": {
+      "userId": "e962b65281f24de3a4d44d77718f23e1",
+      "platform": "STEAM",
+      "platformId": "76561198354034498"
+    },
+    "value": 19007.0,
+    "displayName": "BraydenChessin"
+  },
+  {
+    "compositeUserId": {
+      "userId": "1e03ddfbee024d23b85a21c0beae9f36",
+      "platform": "STEAM",
+      "platformId": "76561199506758099"
+    },
+    "value": 19023.0,
+    "displayName": "neon"
+  },
+  {
+    "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 19051.0,
+    "displayName": "Toby Repellant"
+  }
+]

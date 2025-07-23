@@ -1,0 +1,92 @@
+[
+  {
+    "compositeUserId": {
+      "userId": "ba0233df730f4d8ebb6d9c98775422d5",
+      "platform": "STEAM",
+      "platformId": "76561198178160007"
+    },
+    "value": 19219.0,
+    "displayName": "blueski"
+  },
+  {
+    "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 19416.0,
+    "displayName": "Toby Repellant"
+  },
+  {
+    "compositeUserId": {
+      "userId": "6f8a00c365494faab7893d0610a4f7c7",
+      "platform": "STEAM",
+      "platformId": "76561199081543107"
+    },
+    "value": 19427.0,
+    "displayName": "Dweeb"
+  },
+  {
+    "compositeUserId": {
+      "userId": "5d2998f4bdc7459db51348d854230b9c",
+      "platform": "STEAM",
+      "platformId": "76561199443658887"
+    },
+    "value": 19526.0,
+    "displayName": "ban neon"
+  },
+  {
+    "compositeUserId": {
+      "userId": "c72257c3a6f342fa9a5da8962ae80507",
+      "platform": "STEAM",
+      "platformId": "76561199755055037"
+    },
+    "value": 19599.0,
+    "displayName": "chikken0"
+  },
+  {
+    "compositeUserId": {
+      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
+      "platform": "STEAM",
+      "platformId": "76561199472448600"
+    },
+    "value": 19625.0,
+    "displayName": "pc"
+  },
+  {
+    "compositeUserId": {
+      "userId": "4b855a003bee4c2480a5ec38f0b044df",
+      "platform": "STEAM",
+      "platformId": "76561198875487244"
+    },
+    "value": 19702.0,
+    "displayName": "headjakk"
+  },
+  {
+    "compositeUserId": {
+      "userId": "1b27adf08cbb4430b36308681cdb64f1",
+      "platform": "STEAM",
+      "platformId": "76561199536037956"
+    },
+    "value": 19719.0,
+    "displayName": "Kozmii🌙"
+  },
+  {
+    "compositeUserId": {
+      "userId": "450269d5636e4f92a580e9c749146394",
+      "platform": "STEAM",
+      "platformId": "76561199065374658"
+    },
+    "value": 19784.0,
+    "displayName": "FxShiro"
+  },
+  {
+    "compositeUserId": {
+      "userId": "06f0b4d9d87043efbba6319781f638c8",
+      "platform": "STEAM",
+      "platformId": "76561198359912342"
+    },
+    "value": 19812.0,
+    "displayName": "void"
+  }
+]

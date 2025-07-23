@@ -1,0 +1,92 @@
+[
+  {
+    "compositeUserId": {
+      "userId": "ba0233df730f4d8ebb6d9c98775422d5",
+      "platform": "STEAM",
+      "platformId": "76561198178160007"
+    },
+    "value": 24502.0,
+    "displayName": "blueski"
+  },
+  {
+    "compositeUserId": {
+      "userId": "c0dd4dee9a564959b7b916edb30fb659",
+      "platform": "STEAM",
+      "platformId": "76561198081832175"
+    },
+    "value": 24544.0,
+    "displayName": "JalenMans"
+  },
+  {
+    "compositeUserId": {
+      "userId": "81918608f64f47ccaa2421db779e04d3",
+      "platform": "STEAM",
+      "platformId": "76561199120724063"
+    },
+    "value": 24690.0,
+    "displayName": "Alfa"
+  },
+  {
+    "compositeUserId": {
+      "userId": "6f8a00c365494faab7893d0610a4f7c7",
+      "platform": "STEAM",
+      "platformId": "76561199081543107"
+    },
+    "value": 24886.0,
+    "displayName": "Dweeb"
+  },
+  {
+    "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 25037.0,
+    "displayName": "Toby Repellant"
+  },
+  {
+    "compositeUserId": {
+      "userId": "4b855a003bee4c2480a5ec38f0b044df",
+      "platform": "STEAM",
+      "platformId": "76561198875487244"
+    },
+    "value": 25251.0,
+    "displayName": "headjakk"
+  },
+  {
+    "compositeUserId": {
+      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
+      "platform": "STEAM",
+      "platformId": "76561199472448600"
+    },
+    "value": 25468.0,
+    "displayName": "pc"
+  },
+  {
+    "compositeUserId": {
+      "userId": "f897a710cb0a48e7842759a2c23079bd",
+      "platform": "STEAM",
+      "platformId": "76561199452712080"
+    },
+    "value": 25496.0,
+    "displayName": "Pavitr Prabhakar"
+  },
+  {
+    "compositeUserId": {
+      "userId": "c659dded250a4ccd89e3f183e63d7f68",
+      "platform": "STEAM",
+      "platformId": "76561199103355936"
+    },
+    "value": 25759.0,
+    "displayName": "Pickle12"
+  },
+  {
+    "compositeUserId": {
+      "userId": "e962b65281f24de3a4d44d77718f23e1",
+      "platform": "STEAM",
+      "platformId": "76561198354034498"
+    },
+    "value": 25808.0,
+    "displayName": "BraydenChessin"
+  }
+]

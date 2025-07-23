@@ -1,0 +1,92 @@
+[
+  {
+    "compositeUserId": {
+      "userId": "ba0233df730f4d8ebb6d9c98775422d5",
+      "platform": "STEAM",
+      "platformId": "76561198178160007"
+    },
+    "value": 19721.0,
+    "displayName": "blueski"
+  },
+  {
+    "compositeUserId": {
+      "userId": "6f8a00c365494faab7893d0610a4f7c7",
+      "platform": "STEAM",
+      "platformId": "76561199081543107"
+    },
+    "value": 19847.0,
+    "displayName": "Dweeb"
+  },
+  {
+    "compositeUserId": {
+      "userId": "4b855a003bee4c2480a5ec38f0b044df",
+      "platform": "STEAM",
+      "platformId": "76561198875487244"
+    },
+    "value": 19896.0,
+    "displayName": "headjakk"
+  },
+  {
+    "compositeUserId": {
+      "userId": "81918608f64f47ccaa2421db779e04d3",
+      "platform": "STEAM",
+      "platformId": "76561199120724063"
+    },
+    "value": 19897.0,
+    "displayName": "Alfa"
+  },
+  {
+    "compositeUserId": {
+      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
+      "platform": "STEAM",
+      "platformId": "76561199472448600"
+    },
+    "value": 19915.0,
+    "displayName": "pc"
+  },
+  {
+    "compositeUserId": {
+      "userId": "450269d5636e4f92a580e9c749146394",
+      "platform": "STEAM",
+      "platformId": "76561199065374658"
+    },
+    "value": 19928.0,
+    "displayName": "FxShiro"
+  },
+  {
+    "compositeUserId": {
+      "userId": "c72257c3a6f342fa9a5da8962ae80507",
+      "platform": "STEAM",
+      "platformId": "76561199755055037"
+    },
+    "value": 19971.0,
+    "displayName": "chikken0"
+  },
+  {
+    "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 20003.0,
+    "displayName": "Toby Repellant"
+  },
+  {
+    "compositeUserId": {
+      "userId": "c659dded250a4ccd89e3f183e63d7f68",
+      "platform": "STEAM",
+      "platformId": "76561199103355936"
+    },
+    "value": 20011.0,
+    "displayName": "Pickle12"
+  },
+  {
+    "compositeUserId": {
+      "userId": "2c4858bdb96444c2b616dbe2151e9fe1",
+      "platform": "STEAM",
+      "platformId": "76561198264098935"
+    },
+    "value": 20022.0,
+    "displayName": "Xero"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 25407.0,
+    "displayName": "Toby Repellant"
+  },
+  {
+    "compositeUserId": {
+      "userId": "4b855a003bee4c2480a5ec38f0b044df",
+      "platform": "STEAM",
+      "platformId": "76561198875487244"
+    },
+    "value": 25562.0,
+    "displayName": "headjakk"
+  },
+  {
+    "compositeUserId": {
+      "userId": "81918608f64f47ccaa2421db779e04d3",
+      "platform": "STEAM",
+      "platformId": "76561199120724063"
+    },
+    "value": 25781.0,
+    "displayName": "Alfa"
+  },
+  {
+    "compositeUserId": {
+      "userId": "ba0233df730f4d8ebb6d9c98775422d5",
+      "platform": "STEAM",
+      "platformId": "76561198178160007"
+    },
+    "value": 25859.0,
+    "displayName": "blueski"
+  },
+  {
+    "compositeUserId": {
+      "userId": "6f8a00c365494faab7893d0610a4f7c7",
+      "platform": "STEAM",
+      "platformId": "76561199081543107"
+    },
+    "value": 26024.0,
+    "displayName": "Dweeb"
+  },
+  {
+    "compositeUserId": {
+      "userId": "82637746c58f4ab78c9521f8113250a7",
+      "platform": "STEAM",
+      "platformId": "76561198090122512"
+    },
+    "value": 26038.0,
+    "displayName": "bliss."
+  },
+  {
+    "compositeUserId": {
+      "userId": "e962b65281f24de3a4d44d77718f23e1",
+      "platform": "STEAM",
+      "platformId": "76561198354034498"
+    },
+    "value": 26110.0,
+    "displayName": "BraydenChessin"
+  },
+  {
+    "compositeUserId": {
+      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
+      "platform": "STEAM",
+      "platformId": "76561199472448600"
+    },
+    "value": 26193.0,
+    "displayName": "pc"
+  },
+  {
+    "compositeUserId": {
+      "userId": "579ff96fd3d44ccb84f5f5dc2abcae5d",
+      "platform": "STEAM",
+      "platformId": "76561198799240817"
+    },
+    "value": 26211.0,
+    "displayName": "hkr"
+  },
+  {
+    "compositeUserId": {
+      "userId": "f66071864cca479e9bc79a95bb79e023",
+      "platform": "STEAM",
+      "platformId": "76561199554426465"
+    },
+    "value": 26558.0,
+    "displayName": "GameMaster"
+  }
+]

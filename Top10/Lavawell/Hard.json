@@ -1,0 +1,92 @@
+[
+  {
+    "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 25143.0,
+    "displayName": "Toby Repellant"
+  },
+  {
+    "compositeUserId": {
+      "userId": "c0dd4dee9a564959b7b916edb30fb659",
+      "platform": "STEAM",
+      "platformId": "76561198081832175"
+    },
+    "value": 25149.0,
+    "displayName": "JalenMans"
+  },
+  {
+    "compositeUserId": {
+      "userId": "6f8a00c365494faab7893d0610a4f7c7",
+      "platform": "STEAM",
+      "platformId": "76561199081543107"
+    },
+    "value": 25352.0,
+    "displayName": "Dweeb"
+  },
+  {
+    "compositeUserId": {
+      "userId": "ba0233df730f4d8ebb6d9c98775422d5",
+      "platform": "STEAM",
+      "platformId": "76561198178160007"
+    },
+    "value": 25528.0,
+    "displayName": "blueski"
+  },
+  {
+    "compositeUserId": {
+      "userId": "5582fbb6266e41b8843c5295fc3b5f8c",
+      "platform": "STEAM",
+      "platformId": "76561198221014396"
+    },
+    "value": 25585.0,
+    "displayName": "SSG ChenZo"
+  },
+  {
+    "compositeUserId": {
+      "userId": "81918608f64f47ccaa2421db779e04d3",
+      "platform": "STEAM",
+      "platformId": "76561199120724063"
+    },
+    "value": 25734.0,
+    "displayName": "Alfa"
+  },
+  {
+    "compositeUserId": {
+      "userId": "450269d5636e4f92a580e9c749146394",
+      "platform": "STEAM",
+      "platformId": "76561199065374658"
+    },
+    "value": 25784.0,
+    "displayName": "FxShiro"
+  },
+  {
+    "compositeUserId": {
+      "userId": "e962b65281f24de3a4d44d77718f23e1",
+      "platform": "STEAM",
+      "platformId": "76561198354034498"
+    },
+    "value": 25821.0,
+    "displayName": "BraydenChessin"
+  },
+  {
+    "compositeUserId": {
+      "userId": "2c5cd77444ae4dd9b5854d5b7ce34f50",
+      "platform": "STEAM",
+      "platformId": "76561198403414800"
+    },
+    "value": 25825.0,
+    "displayName": "XSET luck"
+  },
+  {
+    "compositeUserId": {
+      "userId": "4b855a003bee4c2480a5ec38f0b044df",
+      "platform": "STEAM",
+      "platformId": "76561198875487244"
+    },
+    "value": 25874.0,
+    "displayName": "headjakk"
+  }
+]

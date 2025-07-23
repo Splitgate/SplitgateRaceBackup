@@ -1,0 +1,92 @@
+[
+  {
+    "compositeUserId": {
+      "userId": "6f8a00c365494faab7893d0610a4f7c7",
+      "platform": "STEAM",
+      "platformId": "76561199081543107"
+    },
+    "value": 22182.0,
+    "displayName": "Dweeb"
+  },
+  {
+    "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 22508.0,
+    "displayName": "Toby Repellant"
+  },
+  {
+    "compositeUserId": {
+      "userId": "c0dd4dee9a564959b7b916edb30fb659",
+      "platform": "STEAM",
+      "platformId": "76561198081832175"
+    },
+    "value": 22784.0,
+    "displayName": "JalenMans"
+  },
+  {
+    "compositeUserId": {
+      "userId": "06f0b4d9d87043efbba6319781f638c8",
+      "platform": "STEAM",
+      "platformId": "76561198359912342"
+    },
+    "value": 22876.0,
+    "displayName": "void"
+  },
+  {
+    "compositeUserId": {
+      "userId": "ba0233df730f4d8ebb6d9c98775422d5",
+      "platform": "STEAM",
+      "platformId": "76561198178160007"
+    },
+    "value": 22988.0,
+    "displayName": "blueski"
+  },
+  {
+    "compositeUserId": {
+      "userId": "81918608f64f47ccaa2421db779e04d3",
+      "platform": "STEAM",
+      "platformId": "76561199120724063"
+    },
+    "value": 23053.0,
+    "displayName": "Alfa"
+  },
+  {
+    "compositeUserId": {
+      "userId": "7e8264123eb54e8c98edd0d3b5212889",
+      "platform": "STEAM",
+      "platformId": "76561198236711282"
+    },
+    "value": 23226.0,
+    "displayName": "DeJay99"
+  },
+  {
+    "compositeUserId": {
+      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
+      "platform": "STEAM",
+      "platformId": "76561199472448600"
+    },
+    "value": 23591.0,
+    "displayName": "pc"
+  },
+  {
+    "compositeUserId": {
+      "userId": "e962b65281f24de3a4d44d77718f23e1",
+      "platform": "STEAM",
+      "platformId": "76561198354034498"
+    },
+    "value": 23834.0,
+    "displayName": "BraydenChessin"
+  },
+  {
+    "compositeUserId": {
+      "userId": "4b855a003bee4c2480a5ec38f0b044df",
+      "platform": "STEAM",
+      "platformId": "76561198875487244"
+    },
+    "value": 23853.0,
+    "displayName": "headjakk"
+  }
+]
