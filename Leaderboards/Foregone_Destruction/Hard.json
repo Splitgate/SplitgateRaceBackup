@@ -46,6 +46,15 @@
   },
   {
     "compositeUserId": {
+      "userId": "e962b65281f24de3a4d44d77718f23e1",
+      "platform": "STEAM",
+      "platformId": "76561198354034498"
+    },
+    "value": 25115.0,
+    "displayName": "BraydenChessin"
+  },
+  {
+    "compositeUserId": {
       "userId": "4b855a003bee4c2480a5ec38f0b044df",
       "platform": "STEAM",
       "platformId": "76561198875487244"
@@ -79,14 +88,5 @@
     },
     "value": 25759.0,
     "displayName": "Pickle12"
-  },
-  {
-    "compositeUserId": {
-      "userId": "e962b65281f24de3a4d44d77718f23e1",
-      "platform": "STEAM",
-      "platformId": "76561198354034498"
-    },
-    "value": 25808.0,
-    "displayName": "BraydenChessin"
   }
 ]

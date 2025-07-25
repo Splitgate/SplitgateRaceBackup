@@ -11,7 +11,7 @@
 | Olympus              | 0:20.810 |
 | Abyss              | 0:20.813 |
 | Oasis              | 0:20.818 |
-| Highwind              | 0:21.022 |
+| Highwind              | 0:20.885 |
 | Silo              | 0:23.742 |
 | Foregone Destruction              | 0:24.620 |
 | Pantheon              | 0:24.725 |
@@ -55,8 +55,8 @@
 | Impact              | 0:19.032 |
 | Crag              | 0:24.808 |
 | Karman Station              | 0:24.812 |
+| Lavawell              | 0:25.658 |
 | Oasis              | 0:25.769 |
-| Lavawell              | 0:25.784 |
 | Pantheon              | 0:28.948 |
 | Stadium              | 0:34.016 |
 | Helix              | 0:36.406 |

@@ -31,9 +31,9 @@
 | 5              | neon | 0:21.917 |
 | 6              | FxShiro | 0:21.931 |
 | 7              | Alfa | 0:22.147 |
-| 8              | Toby Repellant | 0:22.215 |
-| 9              | Kozmii🌙 | 0:22.255 |
-| 10              | BraydenChessin | 0:22.282 |
+| 8              | chikken0 | 0:22.192 |
+| 9              | Toby Repellant | 0:22.215 |
+| 10              | Kozmii🌙 | 0:22.255 |
 
 </details>
 

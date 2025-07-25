@@ -11,10 +11,10 @@
 | 4              | chikken0 | 0:19.982 |
 | 5              | blueski | 0:20.142 |
 | 6              | pc | 0:20.177 |
-| 7              | void | 0:20.343 |
-| 8              | neon | 0:20.353 |
-| 9              | BraydenChessin | 0:20.375 |
-| 10              | Alfa | 0:20.423 |
+| 7              | Toby Repellant | 0:20.206 |
+| 8              | void | 0:20.343 |
+| 9              | neon | 0:20.353 |
+| 10              | BraydenChessin | 0:20.375 |
 
 </details>
 

@@ -28,8 +28,8 @@
 | 2              | chikken0 | 0:17.550 |
 | 3              | FxShiro | 0:17.552 |
 | 4              | blueski | 0:17.562 |
-| 5              | Toby Repellant | 0:17.907 |
-| 6              | pc | 0:18.310 |
+| 5              | pc | 0:17.788 |
+| 6              | Toby Repellant | 0:17.907 |
 | 7              | void | 0:18.486 |
 | 8              | headjakk | 0:18.625 |
 | 9              | Alfa | 0:18.800 |

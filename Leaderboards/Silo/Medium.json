@@ -55,6 +55,15 @@
   },
   {
     "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 18987.0,
+    "displayName": "Toby Repellant"
+  },
+  {
+    "compositeUserId": {
       "userId": "ba0233df730f4d8ebb6d9c98775422d5",
       "platform": "STEAM",
       "platformId": "76561198178160007"
@@ -79,14 +88,5 @@
     },
     "value": 19023.0,
     "displayName": "neon"
-  },
-  {
-    "compositeUserId": {
-      "userId": "b14524d407e34b1fa870a71f95d1297c",
-      "platform": "STEAM",
-      "platformId": "76561198403707236"
-    },
-    "value": 19051.0,
-    "displayName": "Toby Repellant"
   }
 ]

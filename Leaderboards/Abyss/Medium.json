@@ -64,6 +64,15 @@
   },
   {
     "compositeUserId": {
+      "userId": "c72257c3a6f342fa9a5da8962ae80507",
+      "platform": "STEAM",
+      "platformId": "76561199755055037"
+    },
+    "value": 22192.0,
+    "displayName": "chikken0"
+  },
+  {
+    "compositeUserId": {
       "userId": "b14524d407e34b1fa870a71f95d1297c",
       "platform": "STEAM",
       "platformId": "76561198403707236"
@@ -79,14 +88,5 @@
     },
     "value": 22255.0,
     "displayName": "Kozmii🌙"
-  },
-  {
-    "compositeUserId": {
-      "userId": "e962b65281f24de3a4d44d77718f23e1",
-      "platform": "STEAM",
-      "platformId": "76561198354034498"
-    },
-    "value": 22282.0,
-    "displayName": "BraydenChessin"
   }
 ]

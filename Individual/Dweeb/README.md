@@ -29,7 +29,7 @@
 | Map      | Time  |
 | :------------- | :-----: |
 | Highwind              | 0:17.486 |
-| Foregone Destruction              | 0:17.644 |
+| Foregone Destruction              | 0:17.594 |
 | Crag              | 0:18.152 |
 | Silo              | 0:18.887 |
 | Stadium              | 0:19.427 |
@@ -42,6 +42,7 @@
 | Helix              | 0:22.310 |
 | Oasis              | 0:22.398 |
 | Lavawell              | 0:23.521 |
+| Lobby              | 15076:48.000 |
 
 </details>
 

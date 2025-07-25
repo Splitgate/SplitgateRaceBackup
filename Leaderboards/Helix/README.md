@@ -29,11 +29,11 @@
 | 3              | Dweeb | 0:22.310 |
 | 4              | headjakk | 0:22.490 |
 | 5              | pc | 0:22.538 |
-| 6              | FxShiro | 0:22.624 |
-| 7              | void | 0:22.730 |
-| 8              | Alfa | 0:22.730 |
-| 9              | BraydenChessin | 0:22.822 |
-| 10              | Toby Repellant | 0:22.832 |
+| 6              | Toby Repellant | 0:22.590 |
+| 7              | FxShiro | 0:22.624 |
+| 8              | void | 0:22.730 |
+| 9              | Alfa | 0:22.730 |
+| 10              | BraydenChessin | 0:22.822 |
 
 </details>
 

@@ -32,8 +32,8 @@
 | 6              | Alfa | 0:20.001 |
 | 7              | Dweeb | 0:20.023 |
 | 8              | FxShiro | 0:20.150 |
-| 9              | void | 0:20.221 |
-| 10              | Toby Repellant | 0:20.253 |
+| 9              | Toby Repellant | 0:20.183 |
+| 10              | void | 0:20.221 |
 
 </details>
 

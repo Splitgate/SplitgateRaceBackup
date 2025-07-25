@@ -5,20 +5,20 @@
 
 | Map      | Time  |
 | :------------- | :-----: |
-| Helix              | 0:19.535 |
-| Stadium              | 0:19.971 |
-| Impact              | 0:19.982 |
-| Highwind              | 0:20.601 |
-| Oasis              | 0:20.638 |
-| Abyss              | 0:20.931 |
-| Olympus              | 0:21.596 |
-| Silo              | 0:23.521 |
-| Pantheon              | 0:24.755 |
-| Foregone Destruction              | 0:24.987 |
-| Atlantis              | 0:27.142 |
-| Karman Station              | 0:27.639 |
-| Crag              | 0:28.911 |
-| Lavawell              | 0:29.349 |
+| Stadium              | 0:20.170 |
+| Helix              | 0:20.261 |
+| Impact              | 0:21.271 |
+| Oasis              | 0:21.304 |
+| Highwind              | 0:21.363 |
+| Olympus              | 0:21.588 |
+| Abyss              | 0:21.705 |
+| Silo              | 0:23.982 |
+| Pantheon              | 0:25.091 |
+| Foregone Destruction              | 0:25.375 |
+| Atlantis              | 0:27.744 |
+| Crag              | 0:29.062 |
+| Lavawell              | 0:29.454 |
+| Karman Station              | 0:29.980 |
 
 </details>
 
@@ -28,20 +28,20 @@
 
 | Map      | Time  |
 | :------------- | :-----: |
-| Highwind              | 0:17.550 |
-| Foregone Destruction              | 0:17.917 |
-| Crag              | 0:18.491 |
-| Silo              | 0:18.745 |
-| Stadium              | 0:19.599 |
-| Atlantis              | 0:19.942 |
-| Impact              | 0:19.994 |
-| Pantheon              | 0:20.433 |
-| Karman Station              | 0:21.027 |
-| Olympus              | 0:21.545 |
-| Helix              | 0:22.046 |
-| Abyss              | 0:22.654 |
-| Oasis              | 0:22.890 |
-| Lavawell              | 0:23.555 |
+| Foregone Destruction              | 0:18.435 |
+| Silo              | 0:18.718 |
+| Crag              | 0:18.893 |
+| Highwind              | 0:19.519 |
+| Stadium              | 0:19.995 |
+| Atlantis              | 0:20.921 |
+| Impact              | 0:20.937 |
+| Pantheon              | 0:21.062 |
+| Karman Station              | 0:21.262 |
+| Olympus              | 0:22.405 |
+| Helix              | 0:22.973 |
+| Abyss              | 0:22.989 |
+| Lavawell              | 0:24.132 |
+| Oasis              | 0:24.541 |
 
 </details>
 
@@ -51,19 +51,19 @@
 
 | Map      | Time  |
 | :------------- | :-----: |
-| Abyss              | 0:18.920 |
-| Impact              | 0:21.013 |
-| Atlantis              | 0:23.882 |
-| Karman Station              | 0:24.818 |
-| Crag              | 0:24.877 |
-| Oasis              | 0:25.341 |
-| Lavawell              | 0:26.219 |
-| Pantheon              | 0:27.355 |
-| Foregone Destruction              | 0:28.078 |
-| Stadium              | 0:28.374 |
-| Silo              | 0:29.342 |
-| Highwind              | 0:30.540 |
-| Olympus              | 0:33.193 |
-| Helix              | 0:36.097 |
+| Abyss              | 0:20.370 |
+| Impact              | 0:23.106 |
+| Karman Station              | 0:25.375 |
+| Atlantis              | 0:25.717 |
+| Crag              | 0:26.343 |
+| Oasis              | 0:26.918 |
+| Lavawell              | 0:27.127 |
+| Foregone Destruction              | 0:28.478 |
+| Pantheon              | 0:28.929 |
+| Stadium              | 0:29.212 |
+| Silo              | 0:30.613 |
+| Highwind              | 0:32.507 |
+| Olympus              | 0:35.760 |
+| Helix              | 0:37.162 |
 
 </details>

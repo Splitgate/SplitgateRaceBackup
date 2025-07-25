@@ -37,21 +37,21 @@
   },
   {
     "compositeUserId": {
+      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
+      "platform": "STEAM",
+      "platformId": "76561199472448600"
+    },
+    "value": 17788.0,
+    "displayName": "pc"
+  },
+  {
+    "compositeUserId": {
       "userId": "b14524d407e34b1fa870a71f95d1297c",
       "platform": "STEAM",
       "platformId": "76561198403707236"
     },
     "value": 17907.0,
     "displayName": "Toby Repellant"
-  },
-  {
-    "compositeUserId": {
-      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
-      "platform": "STEAM",
-      "platformId": "76561199472448600"
-    },
-    "value": 18310.0,
-    "displayName": "pc"
   },
   {
     "compositeUserId": {

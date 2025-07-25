@@ -46,12 +46,12 @@
 | 1              | Toby Repellant | 0:25.143 |
 | 2              | JalenMans | 0:25.149 |
 | 3              | Dweeb | 0:25.352 |
-| 4              | blueski | 0:25.528 |
-| 5              | SSG ChenZo | 0:25.585 |
-| 6              | Alfa | 0:25.734 |
-| 7              | FxShiro | 0:25.784 |
-| 8              | BraydenChessin | 0:25.821 |
-| 9              | XSET luck | 0:25.825 |
-| 10              | headjakk | 0:25.874 |
+| 4              | BraydenChessin | 0:25.500 |
+| 5              | blueski | 0:25.528 |
+| 6              | SSG ChenZo | 0:25.585 |
+| 7              | FxShiro | 0:25.658 |
+| 8              | Alfa | 0:25.734 |
+| 9              | pc | 0:25.757 |
+| 10              | XSET luck | 0:25.825 |
 
 </details>

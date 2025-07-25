@@ -56,9 +56,9 @@
 | Atlantis              | 0:23.834 |
 | Crag              | 0:24.287 |
 | Karman Station              | 0:24.333 |
+| Foregone Destruction              | 0:25.115 |
 | Oasis              | 0:25.457 |
-| Foregone Destruction              | 0:25.808 |
-| Lavawell              | 0:25.821 |
+| Lavawell              | 0:25.500 |
 | Pantheon              | 0:26.110 |
 | Silo              | 0:27.735 |
 | Stadium              | 0:28.189 |

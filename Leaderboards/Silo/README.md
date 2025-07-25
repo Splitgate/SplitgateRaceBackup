@@ -30,10 +30,10 @@
 | 4              | Dweeb | 0:18.887 |
 | 5              | pc | 0:18.918 |
 | 6              | Johny2toes | 0:18.932 |
-| 7              | blueski | 0:18.991 |
-| 8              | BraydenChessin | 0:19.007 |
-| 9              | neon | 0:19.023 |
-| 10              | Toby Repellant | 0:19.051 |
+| 7              | Toby Repellant | 0:18.987 |
+| 8              | blueski | 0:18.991 |
+| 9              | BraydenChessin | 0:19.007 |
+| 10              | neon | 0:19.023 |
 
 </details>
 

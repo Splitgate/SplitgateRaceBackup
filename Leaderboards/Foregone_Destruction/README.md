@@ -30,10 +30,10 @@
 | 4              | ban neon | 0:17.530 |
 | 5              | neon | 0:17.559 |
 | 6              | pc | 0:17.569 |
-| 7              | Dweeb | 0:17.644 |
-| 8              | void | 0:17.776 |
-| 9              | FxShiro | 0:17.779 |
-| 10              | chikken0 | 0:17.917 |
+| 7              | Dweeb | 0:17.594 |
+| 8              | Toby Repellant | 0:17.773 |
+| 9              | void | 0:17.776 |
+| 10              | FxShiro | 0:17.779 |
 
 </details>
 
@@ -48,10 +48,10 @@
 | 3              | Alfa | 0:24.690 |
 | 4              | Dweeb | 0:24.886 |
 | 5              | Toby Repellant | 0:25.037 |
-| 6              | headjakk | 0:25.251 |
-| 7              | pc | 0:25.468 |
-| 8              | Pavitr Prabhakar | 0:25.496 |
-| 9              | Pickle12 | 0:25.759 |
-| 10              | BraydenChessin | 0:25.808 |
+| 6              | BraydenChessin | 0:25.115 |
+| 7              | headjakk | 0:25.251 |
+| 8              | pc | 0:25.468 |
+| 9              | Pavitr Prabhakar | 0:25.496 |
+| 10              | Pickle12 | 0:25.759 |
 
 </details>

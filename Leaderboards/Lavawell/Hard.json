@@ -28,6 +28,15 @@
   },
   {
     "compositeUserId": {
+      "userId": "e962b65281f24de3a4d44d77718f23e1",
+      "platform": "STEAM",
+      "platformId": "76561198354034498"
+    },
+    "value": 25500.0,
+    "displayName": "BraydenChessin"
+  },
+  {
+    "compositeUserId": {
       "userId": "ba0233df730f4d8ebb6d9c98775422d5",
       "platform": "STEAM",
       "platformId": "76561198178160007"
@@ -46,6 +55,15 @@
   },
   {
     "compositeUserId": {
+      "userId": "450269d5636e4f92a580e9c749146394",
+      "platform": "STEAM",
+      "platformId": "76561199065374658"
+    },
+    "value": 25658.0,
+    "displayName": "FxShiro"
+  },
+  {
+    "compositeUserId": {
       "userId": "81918608f64f47ccaa2421db779e04d3",
       "platform": "STEAM",
       "platformId": "76561199120724063"
@@ -55,21 +73,12 @@
   },
   {
     "compositeUserId": {
-      "userId": "450269d5636e4f92a580e9c749146394",
+      "userId": "53d5a99435cb49929ca7f17b2c89ed6c",
       "platform": "STEAM",
-      "platformId": "76561199065374658"
+      "platformId": "76561199472448600"
     },
-    "value": 25784.0,
-    "displayName": "FxShiro"
-  },
-  {
-    "compositeUserId": {
-      "userId": "e962b65281f24de3a4d44d77718f23e1",
-      "platform": "STEAM",
-      "platformId": "76561198354034498"
-    },
-    "value": 25821.0,
-    "displayName": "BraydenChessin"
+    "value": 25757.0,
+    "displayName": "pc"
   },
   {
     "compositeUserId": {
@@ -79,14 +88,5 @@
     },
     "value": 25825.0,
     "displayName": "XSET luck"
-  },
-  {
-    "compositeUserId": {
-      "userId": "4b855a003bee4c2480a5ec38f0b044df",
-      "platform": "STEAM",
-      "platformId": "76561198875487244"
-    },
-    "value": 25874.0,
-    "displayName": "headjakk"
   }
 ]

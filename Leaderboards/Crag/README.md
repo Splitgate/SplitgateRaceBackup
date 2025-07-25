@@ -12,9 +12,9 @@
 | 5              | blueski | 0:28.647 |
 | 6              | void | 0:28.760 |
 | 7              | pc | 0:28.775 |
-| 8              | Toby Repellant | 0:28.822 |
-| 9              | Alfa | 0:28.845 |
-| 10              | Bunji | 0:28.887 |
+| 8              | chikken0 | 0:28.795 |
+| 9              | Toby Repellant | 0:28.822 |
+| 10              | Alfa | 0:28.845 |
 
 </details>
 

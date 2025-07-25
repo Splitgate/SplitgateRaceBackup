@@ -64,6 +64,15 @@
   },
   {
     "compositeUserId": {
+      "userId": "c72257c3a6f342fa9a5da8962ae80507",
+      "platform": "STEAM",
+      "platformId": "76561199755055037"
+    },
+    "value": 28795.0,
+    "displayName": "chikken0"
+  },
+  {
+    "compositeUserId": {
       "userId": "b14524d407e34b1fa870a71f95d1297c",
       "platform": "STEAM",
       "platformId": "76561198403707236"
@@ -79,14 +88,5 @@
     },
     "value": 28845.0,
     "displayName": "Alfa"
-  },
-  {
-    "compositeUserId": {
-      "userId": "87e9ff24e812442ba9ba2a6ad17e6c27",
-      "platform": "STEAM",
-      "platformId": "76561199486950732"
-    },
-    "value": 28887.0,
-    "displayName": "Bunji"
   }
 ]

@@ -11,10 +11,10 @@
 | 4              | Toby Repellant | 0:20.421 |
 | 5              | Alfa | 0:20.494 |
 | 6              | pc | 0:20.684 |
-| 7              | FxShiro | 0:20.810 |
-| 8              | Pickle12 | 0:20.869 |
-| 9              | BraydenChessin | 0:20.982 |
-| 10              | void | 0:20.984 |
+| 7              | chikken0 | 0:20.772 |
+| 8              | FxShiro | 0:20.810 |
+| 9              | Pickle12 | 0:20.869 |
+| 10              | BraydenChessin | 0:20.982 |
 
 </details>
 

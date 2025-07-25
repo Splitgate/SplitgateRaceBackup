@@ -59,8 +59,17 @@
       "platform": "STEAM",
       "platformId": "76561199081543107"
     },
-    "value": 17644.0,
+    "value": 17594.0,
     "displayName": "Dweeb"
+  },
+  {
+    "compositeUserId": {
+      "userId": "b14524d407e34b1fa870a71f95d1297c",
+      "platform": "STEAM",
+      "platformId": "76561198403707236"
+    },
+    "value": 17773.0,
+    "displayName": "Toby Repellant"
   },
   {
     "compositeUserId": {
@@ -79,14 +88,5 @@
     },
     "value": 17779.0,
     "displayName": "FxShiro"
-  },
-  {
-    "compositeUserId": {
-      "userId": "c72257c3a6f342fa9a5da8962ae80507",
-      "platform": "STEAM",
-      "platformId": "76561199755055037"
-    },
-    "value": 17917.0,
-    "displayName": "chikken0"
   }
 ]

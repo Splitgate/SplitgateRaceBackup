@@ -29,7 +29,7 @@
 | Map      | Time  |
 | :------------- | :-----: |
 | Foregone Destruction              | 0:17.569 |
-| Highwind              | 0:18.310 |
+| Highwind              | 0:17.788 |
 | Crag              | 0:18.479 |
 | Silo              | 0:18.918 |
 | Stadium              | 0:19.625 |
@@ -58,7 +58,7 @@
 | Oasis              | 0:25.251 |
 | Crag              | 0:25.285 |
 | Foregone Destruction              | 0:25.468 |
-| Lavawell              | 0:25.910 |
+| Lavawell              | 0:25.757 |
 | Pantheon              | 0:26.193 |
 | Stadium              | 0:28.086 |
 | Silo              | 0:29.061 |
